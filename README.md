@@ -7,7 +7,7 @@ This project is a part of my internship assignment for selection and consists of
 
 To install and run the app, follow these steps:
 
-1. Download the APK file from the [Releases](build\app\outputs\flutter-apk\app-release.apk)
+1. Download the APK file from the [Releases](https://github.com/navaneethkulal8/blackcofferintern/blob/main/app-release.apk)
 2. Transfer the APK file to your Android device.
 3. On your Android device, navigate to the location of the APK file using a file manager app.
 4. Tap on the APK file to start the installation process.
