@@ -1,16 +1,25 @@
 # blackcoffer
 
-A new Flutter project.
 
-## Getting Started
+This project is a part of my internship assignment for selection and consists of several pages developed using Flutter.
 
-This project is a starting point for a Flutter application.
+## Installation
 
-A few resources to get you started if this is your first Flutter project:
+To install and run the app, follow these steps:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Download the APK file from the [Releases](yourcloneddirectory\blackcoffer\build\app\outputs\flutter-apk\app-release.apk)
+2. Transfer the APK file to your Android device.
+3. On your Android device, navigate to the location of the APK file using a file manager app.
+4. Tap on the APK file to start the installation process.
+5. Follow the on-screen instructions to complete the installation.
+6. Once installed, you can find the app on your device and launch it.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+Here are some screenshots of the app:
+
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="screenshorts/img1.png" alt="Home page" width="300px" style="margin-right: 20px;">
+  <img src="screenshorts/img2.png" alt="explore page" width="300px">
+</div>
+
